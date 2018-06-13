@@ -1,0 +1,43 @@
+{
+  "name": "redux-all-creator",
+  "version": "0.0.2",
+  "description": "Redux Creator",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IceMimosa/redux-creator.git"
+  },
+  "author": "ChenKai <chk19940609@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IceMimosa/redux-creator/issues"
+  },
+  "homepage": "https://github.com/IceMimosa/redux-creator",
+  "keywords": [
+    "redux",
+    "create",
+    "creator",
+    "middleware"
+  ],
+  "dependencies": {
+    "redux-all-creator": "^0.0.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.0.0-beta.49",
+    "@babel/core": "^7.0.0-beta.49",
+    "@babel/node": "^7.0.0-beta.49",
+    "@babel/preset-env": "^7.0.0-beta.49",
+    "babel-core": "^7.0.0-0",
+    "babel-jest": "^23.0.1",
+    "jest": "^23.1.0",
+    "redux": "^4.0.0",
+    "redux-mock-store": "^1.5.1",
+    "redux-promise": "^0.6.0"
+  },
+  "jest": {
+    "testPathIgnorePatterns": ["<rootDir>/node_modules/", "<rootDir>/__tests__/creators"]
+  }
+}
