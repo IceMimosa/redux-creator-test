@@ -23,7 +23,7 @@
     "middleware"
   ],
   "dependencies": {
-    "redux-all-creator": "^0.0.2"
+    "redux-all-creator": "^0.0.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0-beta.49",

@@ -3225,9 +3225,9 @@ redux-actions@^2.4.0:
     lodash-es "^4.17.4"
     reduce-reducers "^0.1.0"
 
-redux-all-creator@^0.0.2:
-  version "0.0.2"
-  resolved "http://registry.npm.taobao.org/redux-all-creator/download/redux-all-creator-0.0.2.tgz#acfce231dfdb611b0e106b23b877736065c129a5"
+redux-all-creator@^0.0.3:
+  version "0.0.3"
+  resolved "http://registry.npm.taobao.org/redux-all-creator/download/redux-all-creator-0.0.3.tgz#dd9cb1a3a4d465f7c99fa4a0dec86591e41651b7"
   dependencies:
     redux-actions "^2.4.0"
 
